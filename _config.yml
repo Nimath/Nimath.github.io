@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Nicola Mazzari - Unipd"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Nicola Mazzari"
+description              : &description "I am a mathematician and researcher at the University of Padua, working in Arithmetic Geometry"
+url                      : https://Nimath.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Nimath/Nimath.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,24 +23,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicola Mazzari"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Padova"
+  employer         : "Università degli studi di Padova"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nicola.mazzari@unipd.it" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  mathscinet       : "http://www.ams.org/mathscinet/search/author.html?mrauthid=926143" # URL
+  arxiv            : "http://arxiv.org/a/mazzari_n_1" # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=Zf_ELl8AAAAJ&view_op=list_works&sortby=pubdate"
+  iris             : "https://www.research.unipd.it/cris/rp/rp01876#.YC4wEC1Q3UI" #  URL
+  orcid            : "https://orcid.org/0000-0002-1390-5189"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=37048741600" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -51,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
