@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Nicola Mazzari"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "helping students in solving linear systems | struggling with conjectures in arithmetic algebraic geometry | cycling a lot"
   location         : "Padova"
-  employer         : "Università degli studi di Padova"
-  uri              : # URL
+  employer         : "UniPD"
+  uri              : "https://www.unipd.it" # URL
   email            : "nicola.mazzari@unipd.it" 
 
   # Academic websites
