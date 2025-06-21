@@ -1,7 +1,7 @@
 ---
 title: "Extensions of formal Hodge structures"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2011-01-01-extensions-of-formal-hodge-structures
 excerpt: ''
 date: 2011-01-01
