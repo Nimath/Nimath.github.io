@@ -1,7 +1,7 @@
 ---
 title: "On deformations of 1-motives"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2019-01-01-on-deformations-of-1-motives
 excerpt: ''
 date: 2019-01-01
