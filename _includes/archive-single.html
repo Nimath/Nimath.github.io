@@ -1,18 +1,22 @@
 {% if post.collection == 'publications' %}
+  {% assign reversed_index = total | minus: index | plus: 1 %}
+
   <div class="pub-item" style="margin-bottom: 1.5em;">
 
-    <!-- Authors and Title -->
     <p>
+      <strong>{{ reversed_index }}.</strong>
       {% if post.authors %}
         {{ post.authors }},
       {% endif %}
-      <strong>"{{ post.title }}"</strong>
+      {% if post.date %}
+        ({{ post.date | date: "%Y" }}).
+      {% endif %}
+      <em>{{ post.title }}</em>.
     </p>
 
-    <!-- Citation and Link -->
     <p>
-      {% if post.citation %}
-        {{ post.citation }},
+      {% if post.venue %}
+        {{ post.venue }},
       {% endif %}
 
       {% if post.paperurl %}
