@@ -1,7 +1,7 @@
 ---
 title: "Cycle classes and the syntomic regulator"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2013-01-01-cycle-classes-and-the-syntomic-regulator
 excerpt: ''
 date: 2013-01-01
