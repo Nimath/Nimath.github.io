@@ -1,7 +1,7 @@
 ---
 title: "The rigid syntomic ring spectrum"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2015-01-01-the-rigid-syntomic-ring-spectrum
 excerpt: ''
 date: 2015-01-01
