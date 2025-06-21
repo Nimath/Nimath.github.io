@@ -1,10 +1,10 @@
 ---
 title: "The Fontaine–Ogus realization of Laumon 1-motives"
 collection: publications
-category: journal
-permalink: /publication/2019d-the-fontaine-ogus-realization-of-laumon-1-motives
+category: manuscripts
+permalink: /publication/2019-01-01-the-fontaine-ogus-realization-of-laumon-1-motives
 excerpt: ''
-date: 2019
+date: 2019-01-01
 venue: 'Communications in Algebra 48 (1): 299–306'
 arXiv: 'https://arxiv.org/abs/1906.07436'
 paperurl: 'http://nimath.github.io/files/myart07_2019.pdf'
