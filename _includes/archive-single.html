@@ -4,10 +4,12 @@
   <div class="pub-item" style="margin-bottom: 1.5em;">
 
     <p>
-      <strong>{{ reversed_index }}.</strong>
+      <strong>{{ reversed_index }} - </strong>
       {% if post.citation %}
-        {{ post.citation }},
-      {% endif %}.
+        {{ post.citation }}
+      {% endif %}
+     </p>
+   <p>
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
       {% endif %}, {% if post.arXiv %}
