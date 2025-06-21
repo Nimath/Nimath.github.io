@@ -1,7 +1,7 @@
 ---
 title: "Cohomological dimension of Laumon 1-motives up to isogenies"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2010-01-01-cohomological-dimension-of-laumon-1-motives
 excerpt: ''
 date: 2010-01-01
