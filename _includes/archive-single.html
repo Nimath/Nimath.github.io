@@ -1,0 +1,26 @@
+{% if post.collection == 'publications' %}
+  <div class="pub-item" style="margin-bottom: 1.5em;">
+
+    <!-- Authors and Title -->
+    <p>
+      {% if post.authors %}
+        {{ post.authors }},
+      {% endif %}
+      <strong>"{{ post.title }}"</strong>
+    </p>
+
+    <!-- Citation and Link -->
+    <p>
+      {% if post.citation %}
+        {{ post.citation }},
+      {% endif %}
+
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
+      {% endif %}
+    </p>
+
+  </div>
+{% else %}
+  {% include archive-single-default.html %}
+{% endif %}
