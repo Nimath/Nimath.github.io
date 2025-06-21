@@ -7,7 +7,7 @@ excerpt: ''
 date: 2010
 venue: 'Journal de Théorie des Nombres de Bordeaux 22 (3): 719–726'
 arXiv: 'https://arxiv.org/abs/0809.4926'
-paperurl: '/files/myart01_2010.pdf'
+paperurl: 'nimath.github.io/files/myart01_2010.pdf'
 bibtexurl: ''
 citation: 'N. Mazzari (2010). &quot;Cohomological dimension of Laumon 1-motives up to isogenies.&quot; <i>Journal de Théorie des Nombres de Bordeaux</i>, 22 (3), 719–726.'
 ---
