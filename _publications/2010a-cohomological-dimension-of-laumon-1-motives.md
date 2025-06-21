@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2010a-cohomological-dimension-of-laumon-1-motives
 excerpt: ''
-date: 2010
+date: 2010-01-01
 venue: 'Journal de Théorie des Nombres de Bordeaux 22 (3): 719–726'
 arXiv: 'https://arxiv.org/abs/0809.4926'
 paperurl: 'http://nimath.github.io/files/myart01_2010.pdf'
