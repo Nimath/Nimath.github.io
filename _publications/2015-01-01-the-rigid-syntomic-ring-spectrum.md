@@ -2,9 +2,9 @@
 title: "The rigid syntomic ring spectrum"
 collection: publications
 category: journal
-permalink: /publication/2015a-the-rigid-syntomic-ring-spectrum
+permalink: /publication/2015-01-01-the-rigid-syntomic-ring-spectrum
 excerpt: ''
-date: 2015
+date: 2015-01-01
 venue: 'Journal of the Institute of Mathematics of Jussieu 14 (4): 753–799'
 arXiv: 'https://arxiv.org/abs/1211.5065'
 paperurl: 'http://nimath.github.io/files/myart04_2014.pdf'
