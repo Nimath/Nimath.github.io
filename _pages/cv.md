@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*  Post-Doc, Paris 7 (IMJ), Fondazione Cino del Duca, 10/2011 - 08/2012
+*   Post-Doc, Università di Padova,  03/2009 —  09/2011
+* Ph.D degree in Mathematics, Università Statale degli Studi di Milano, 13/03/2009 
+*  Early Stage Researcher, Max Planck Institute for Mathematics, Bonn, 07/2007— 01/2008  
+*  Laurea Magistrale con lode, Università di Padova, 14/07/2005
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Professor, Università degli Studi di Padova, Dipartimento di Matematica, from January 2023  
+* Ricercatore di tipo B, Università degli Studi di Padova, Dipartimento di Matematica, 03/2020-31/2022
+* Maître de Conférences, Université de Bordeaux, France, from September 2012 to Febraury 2020
+ 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -61,4 +48,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coordinator of the Communication Team of the Math Department in Padova, since 2022
+* ALGANT local coordinator in Padova
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
