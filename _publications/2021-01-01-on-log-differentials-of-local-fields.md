@@ -1,10 +1,10 @@
 ---
 title: "On log differentials of local fields"
 collection: publications
-category: journal
-permalink: /publication/2021a-on-log-differentials-of-local-fields
+category: manuscripts
+permalink: /publication/2021-01-01-on-log-differentials-of-local-fields
 excerpt: ''
-date: 2021
+date: 2021-01-01
 venue: 'Rendiconti del Seminario Matematico della Università di Padova 145: 207–212'
 arXiv: 'https://arxiv.org/abs/2106.03910'
 paperurl: 'http://nimath.github.io/files/myart09_2021.pdf'
