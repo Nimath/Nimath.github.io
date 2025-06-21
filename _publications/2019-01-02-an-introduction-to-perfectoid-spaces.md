@@ -1,10 +1,10 @@
 ---
 title: "An introduction to Perfectoid Spaces"
 collection: publications
-category: book
-permalink: /publication/2019b-an-introduction-to-perfectoid-spaces
+category: books
+permalink: /publication/2019-01-02-an-introduction-to-perfectoid-spaces
 excerpt: ''
-date: 2019-02
+date: 2019-01-02
 venue: 'In <i>An Excursion into p-adic Hodge Theory</i>, Panoramas & Synthèses 54, SMF, 207–265'
 arXiv: ''
 paperurl: '/files/myart?_2019'
