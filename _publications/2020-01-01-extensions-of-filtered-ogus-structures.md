@@ -1,10 +1,10 @@
 ---
 title: "Extensions of filtered Ogus structures"
 collection: publications
-category: journal
-permalink: /publication/2020a-extensions-of-filtered-ogus-structures
+category: manuscripts
+permalink: /publication/2020-01-01-extensions-of-filtered-ogus-structures
 excerpt: ''
-date: 2020
+date: 2020-01-01
 venue: 'Applied Categorical Structures 28 (1): 143–148'
 arXiv: 'https://arxiv.org/abs/1912.08091'
 paperurl: 'http://nimath.github.io/files/myart08_2020.pdf'
