@@ -1,10 +1,10 @@
 ---
 title: "A Conjecture of Flach and Morin"
 collection: publications
-category: journal
-permalink: /publication/2024b-a-conjecture-of-flach-and-morin
+category: manuscripts
+permalink: /publication/2024-01-01-a-conjecture-of-flach-and-morin
 excerpt: ''
-date: 2024
+date: 2024-01-01
 venue: 'Journal of Number Theory 264 (2024): 27–40'
 arXiv: 'https://arxiv.org/pdf/2303.09839.pdf'
 paperurl: 'http://nimath.github.io/files/myart12_2024.pdf'
