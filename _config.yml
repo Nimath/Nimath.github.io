@@ -220,7 +220,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /portfolio/:title/ # /:collection/:path/
+    permalink:  /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
