@@ -5,6 +5,15 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<ul>
+  <li><a href="#organization">Organization</a></li>
+  <li><a href="#visits">Visits</a></li>
+  <li><a href="#students">Students</a></li>
+  <li><a href="#other">Other</a></li>
+</ul>
+
+
+
 {% assign categories = "organization,visits,students,third-mission,other" | split: "," %}
 
 {% for cat in categories %}
@@ -14,4 +23,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
-
