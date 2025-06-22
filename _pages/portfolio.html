@@ -13,7 +13,13 @@ author_profile: true
   <li><a href="#other">Other</a></li>
 </ul>
 
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
+  <a href="#organization" class="category-tile">Organization</a>
+  <a href="#visits" class="category-tile">Visits</a>
+  <a href="#students" class="category-tile">Students</a>
+  <a href="#third-mission" class="category-tile">Third Mission</a>
+  <a href="#other" class="category-tile">Other</a>
+</div>
 
 {% assign categories = "organization,visits,students,third-mission,other" | split: "," %}
 
