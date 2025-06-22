@@ -2,15 +2,11 @@
  
 
   <div class="pub-item" style="margin-bottom: 1.5em;">
-
-    <p>
-      <strong>{{ reversed_index }} - </strong>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-     </p>
-   <p>
-      {% if post.paperurl %}
+ {% if post.citation and post.paperurl and post.arxiv and post.doi %}
+      <p>* {{ post.citation }}<br /><a href="{{ post.paperurl }}">pdf</a> | <a href="{{ post.arxiv }}">arXiv</a> | <a href="{{ post.doi }}">{ post.doi }
+      </a></p>
+   
+      {% elsif post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
       {% endif %}, {% if post.arXiv %}
         <a href="{{ post.arXiv }}" target="_blank">[arXiv]</a>
