@@ -1,0 +1,17 @@
+{% if post.collection == 'portfolio' %}
+  <div class="portfolio-item" style="margin-bottom: 1.5em;">
+    <p>
+      <strong>{{ post.title }}</strong>
+      {% if post.date %}
+        <span style="color: #666;">({{ post.date | date: "%Y-%m-%d" }})</span>
+      {% endif %}
+    </p>
+
+    <p>
+      {% if post.excerpt %}
+        {{ post.excerpt }}
+      {% endif %}
+    </p>
+  </div>
+
+{% endif %}
