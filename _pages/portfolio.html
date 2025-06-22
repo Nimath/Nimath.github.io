@@ -5,10 +5,13 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+{% assign categories = "organization,visits,students,other" | split: "," %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for cat in categories %}
+  <h2 id="{{ cat | downcase }}">{{ cat | capitalize }}</h2>
+  {% assign items = site.portfolio | where:"type", cat %}
+  {% for item in items %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
 
