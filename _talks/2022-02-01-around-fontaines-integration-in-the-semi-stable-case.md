@@ -6,5 +6,5 @@ permalink: /talks/2022-02-01-around-fontaines-integration-in-the-semi-stable-cas
 venue: "Motives from 1 to 62, Milan"
 date: 2022-02-01
 location: ""
-link: "https://nicola-mazzari.github.io/slides/fontaine2022.pdf"
+link: "https://sites.google.com/view/motives-1-62"
 ---
