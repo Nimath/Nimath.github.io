@@ -19,7 +19,7 @@ author_profile: true
 {% for cat in categories %}
   <h2 id="{{ cat | downcase }}">{{ cat | capitalize }}</h2>
   {% assign items = site.portfolio | where:"type", cat %}
-  {% for item in items %}
-    {% include archive-single.html post=post %}
+  {% for post in items %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
