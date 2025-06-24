@@ -29,4 +29,4 @@ I earned my Laurea Magistrale with honours from Padua in 2005 and my Ph.D. from 
 
 About this site
 ------
-I've used  [Academic Pages](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Created wtih  [Academic Pages](https://academicpages.github.io/markdown/)
