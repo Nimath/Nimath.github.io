@@ -1,8 +1,8 @@
 ---
-title: "Ph.D: K.-H. Nguyen-Dang"
+title: "Ph.D: Khai-Hoan Nguyen-Dang"
 collection: portfolio
 type: "students"
-permalink: /portfolio/phd-k-h-nguyen-dang
+permalink: /portfolio/2025-06-22-phd-k-h-nguyen-dang
 date: 2025-06-22
-excerpt: "On p-adic uniformization of abelian varieties (ongoing), with A. Iovita."
+excerpt: "On p-adic uniformization of abelian varieties, with A. Iovita. University of Padova"
 ---
