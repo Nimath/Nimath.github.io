@@ -3,7 +3,7 @@
     <p>
       <strong>{{ post.title }}</strong>
       {% if post.date %}
-        <span style="color: #666;">({{ post.date | date: "%Y-%m-%d" }})</span>
+        <span style="color: #666;">({{ post.date | date: "%Y" }})</span>
       {% endif %}
     <br />
       {% if post.excerpt %}
