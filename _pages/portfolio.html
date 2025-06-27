@@ -16,9 +16,13 @@ author_profile: true
 {% assign categories = "organization,visits,students,third-mission,other" | split: "," %}
 
 {% for cat in categories %}
+
   <h2 id="{{ cat | downcase }}">{{ cat | capitalize }}</h2>
-  {% assign items = site.portfolio | where:"type", cat %}
+  {% assign items = site.portfolio | where:"type", cat| sort: "date" | reverse %}
   {% for post in items %}
     {% include archive-single-port.html %}
   {% endfor %}
 {% endfor %}
+
+
+ 
