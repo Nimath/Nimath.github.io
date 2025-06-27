@@ -9,6 +9,10 @@
       {% if post.excerpt %}
         {{ post.excerpt }}
       {% endif %}
+      <br />
+      {% if post.link %}
+        <a href="{{ post.link }}">link</a> 
+      {% endif %}
     </p>
   </div>
 
