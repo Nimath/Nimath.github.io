@@ -26,8 +26,8 @@ author:
   name             : "Nicola Mazzari"
   pronouns         : # example: "she/her"  
   bio              : "helping students in solving linear systems | struggling with conjectures in arithmetic algebraic geometry | cycling a lot"
-  location         : "Padova"
-  employer         : "[UniPD](https://www.unipd.it)"
+  #location         : "Padova"
+  employer         : "UniPD"
   uri              : "https://didattica.unipd.it/off/docente/A953960AA30DC1BC4C6C920DA18270DB" # URL
   email            : "nicola.mazzari@unipd.it" 
 
