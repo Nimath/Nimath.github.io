@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "2025-26"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-26-courses.md
