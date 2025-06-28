@@ -6,5 +6,5 @@ permalink: /talks/2012-02-01-sur-la-cohomologie-syntomique-rigide
 venue: "IRMA, Strasbourg. Géométrie algébrique et arithmétique : nouvelles tendances"
 date: 2012-02-01
 location: ""
-link: "https://nicola-mazzari.github.io/slides/syntomique2012.pdf"
+link: "https://irma.math.unistra.fr/conferences/vignette-une-geometrie-algebrique-et-arithmetique-:-nouvelles-tendances-1275.html"
 ---
