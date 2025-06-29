@@ -1,5 +1,5 @@
 ---
-title: "On p-adic periods"
+title: "Introduction to the Grothendieck fundamental group"
 collection: portfolio
 type: "notes"
 permalink: /portfolio/2008-10-15-groth-fund-group.md
