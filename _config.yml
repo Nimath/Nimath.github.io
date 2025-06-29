@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+#site_theme               : "default"
 title                    : "Nicola Mazzari - Unipd"
 title_separator          : "-"
 name                     : &name "Nicola Mazzari"
@@ -247,12 +247,12 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-# - scope:
- #   path: "_pages/teaching.md"
-  #  type: pages
-  #values:
-   # layout: single
-    #author_profile: true
+ - scope:
+    path: "_pages/teaching.md"
+    type: pages
+  values:
+    layout: single
+    author_profile: true
   # _publications
   - scope:
       path: ""
