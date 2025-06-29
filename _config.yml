@@ -230,7 +230,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: posts
     values:
       layout: single
