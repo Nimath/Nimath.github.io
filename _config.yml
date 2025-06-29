@@ -241,18 +241,18 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
- - scope:
-    path: "_pages/teaching.md"
-    type: pages
-  values:
-    layout: single
-    author_profile: true
+# - scope:
+ #   path: "_pages/teaching.md"
+  #  type: pages
+  #values:
+   # layout: single
+    #author_profile: true
   # _publications
   - scope:
       path: ""
