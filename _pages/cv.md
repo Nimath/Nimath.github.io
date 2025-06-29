@@ -25,23 +25,23 @@ Work experience
 * Maître de Conférences, Université de Bordeaux, France, from September 2012 to Febraury 2020
  
 
-Publications
+[Publications](https://nimath.github.io/publications/)
 ======
-  <ul>{% for post in site.publications reversed %}
+[//]: # (  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>)
   
-Talks
+[Talks](https://nimath.github.io/talks/)
 ======
-  <ul>{% for post in site.talks reversed %}
+[//]: # (  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>)
   
-Teaching
+[Teaching](https://nimath.github.io/teaching/)
 ======
-  <ul>{% for post in site.teaching reversed %}
+[//]: # (  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> )
   
 Service and leadership
 ======
