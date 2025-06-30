@@ -19,7 +19,7 @@ By the Taylor expansion of \( e \) at \( 0 \) we get:
 e^p = \sum_{n=0}^{\infty} \frac{p^n}{n!} = 1 + p \sum_{n=1}^{\infty} \frac{p^{n-1}}{n!},
 \]
 
-From this expansion, we see that \( e \) satisfies an equation of the form \( y^p = 1 + pu \), where \( u \) is a \( p \)-adic unit (see Exercise below).
+From this expansion, we see that \( e \) satisfies an equation of the form \( y^p = 1 + pu \), where \( u \) is a \( p \)-adic unit (Exercise).
 
 But the polynomial \( y^p - (1 + pu) \) is irreducible over \( \mathbb{Q}_p \), the fraction field of \( \mathbb{Z}_p \):  
 writing \( y = 1 + z \) and expanding, we get
@@ -36,3 +36,5 @@ Therefore \( e \) must have degree at least \( p \) over \( \mathbb{Q}_p \). Hen
 \]
 
 but this is true for **any prime** \( p \), so \( e \) must be transcendental.
+
+Now, can you spot the flaw in this argument?
