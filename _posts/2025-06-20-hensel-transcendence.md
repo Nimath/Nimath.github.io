@@ -10,7 +10,7 @@ author_profile: true
 **Hensel's proof of the transcendence of e**  
 <small>The original reference is [here](https://www.digizeitschriften.de/id/37721857X_0014%7Clog145?tify=%7B%22pages%22%3A%5B554%2C555%5D%2C%22pan%22%3A%7B%22x%22%3A1.006%2C%22y%22%3A0.792%7D%2C%22view%22%3A%22toc%22%2C%22zoom%22%3A0.408%7D#navi)</small>
 
-![Hensel proof](../images/hensel.png)
+![Hensel proof](https://nimath.github.io/images/hensel.png)
 
 In 1905, Hensel provided the following proof about the transcendence of $$e$$.  
 By the Taylor expansion of $$e$$ at $$0$$ we get:
