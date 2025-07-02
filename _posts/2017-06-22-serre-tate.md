@@ -21,7 +21,8 @@ A nice application is a concrete description of the formal moduli space of an or
 Deformation theory
 ------
 
-Let $$X_0$$ be a smooth scheme over a field $$k$$ and let $$(R,\frak m)$$ be an Artin local ring with residue field $$k$$. Deformation theory is the study of schemes $$X/R$$ deforming $$X_0$$, i.e. $$X_k\cong X_0$$. Namely one looks for conditions under which such an $$X$$ exists and how many of them we can find.
+Let $$X_0$$ be a smooth scheme over a field $$k$$ and let $$(R,\frak m)$$ be an Artin local ring with residue field $$k$$. Deformation theory is 
+the study of schemes $$X/R$$ deforming $$X_0$$, i.e. $$X_k\cong X_0$$. Namely one looks for conditions under which such an $$X$$ exists and how many of them we can find.
 
 Assume (for simplicity) that $$(\frak m)^2=(0)$$ (i.e. we just deal with first order infinitesimal deformations). The basic result of Grothendieck on deformation theory tells that
 
@@ -32,7 +33,9 @@ It follows quite easily that we can deform (at least formally) an abelian scheme
 Barsotti-Tate groups
 ------
 
-The theory Barsotti-Tate groups (aka p-divisible groups) have many interesting applications like in Faltings' proof of Mordell-Weil or the Fontaine's results on the existence of abelian schemes over number rings. The motivating example is the following: let $$E/k$$ be an elliptic curve over some field. Then the scheme-theoretic kernel $$E\[\ell^n\]$$ of the multiplication by $$\ell^n$$ is a finite flat group scheme of rank $$2\cdot \ell^n$$. Now if $$\ell \ne char\ k$$ we an recover this group scheme by the associated galois module $$E\[\ell^n\](k^{sep})\cong (\mathbb{Z}/\ell^n\mathbb{Z})^2$$. Whereas if $$\ell = p$$ is the characteristic of our base field $$E\[\ell^n\](k^{sep})$$ is equal to $$\mathbb{Z}/\ell^n\mathbb{Z}$$ or $$0$$. This motivates the use of $$E\[p^\infty\]=\cup E\[p^n\]$$ which is the basic example of a Barsotti-Tate group.
+The theory Barsotti-Tate groups (aka p-divisible groups) have many interesting applications like in Faltings' proof of Mordell-Weil or the Fontaine's results on the existence of abelian schemes over number rings. The motivating example is the following: let $$E/k$$ be an elliptic curve over some field. Then the scheme-theoretic kernel $$E(\ell^n)$$ of the multiplication 
+by $$\ell^n$$ is a finite flat group scheme of rank $$2\cdot \ell^n$$. Now if $$\ell \ne char\ k$$ we an recover this group scheme by the associated galois module $$E(\ell^n)(k^{sep})\cong (\mathbb{Z}/\ell^n\mathbb{Z})^2$$. Whereas if $$\ell = p$$ is the characteristic of our base field $$E(\ell^n)(k^{sep})$$ is equal to $$\mathbb{Z}/\ell^n\mathbb{Z}$$ or $$0$$. 
+This motivates the use of $$E(p^\infty)=\cup E(p^n)$$ which is the basic example of a Barsotti-Tate group.
 
 For the record the fancy definition is a s follows ($$p$$ is fixed).  A BT group over $$S$$ (any base scheme) is an abelian fppf sheaf $$G$$ over $$S$$ such that
 
@@ -43,7 +46,7 @@ The main result
 
 We fix $$k$$ of characteristic $$p>0$$ and we denote by $$Def(X_0/R)$$ the set of deformations of $$X_0$$ (a scheme, an abelian scheme or a BT group). Then Serre-Tate theory gives an isomorphism
 
-$$ Def(A_0/R) \cong  Def (A_0 \[p^\infty\] / R)$$
+$$ Def(A_0/R) \cong  Def (A_0 (p^\infty) / R)$$
 
 for $$A_0$$ an abelian scheme over $$k$$. We proved the same statement (and more precisely a categorical equivalence) for $$A_0$$ replaced by a 1-motve $$M_0$$ over $$k$$.
 
