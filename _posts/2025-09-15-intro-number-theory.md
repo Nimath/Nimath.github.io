@@ -36,7 +36,7 @@ $$
 X^n + Y^n = Z^n
 $$
 
-which has no non-trivial integer solutions for $$n > 2 $$. We will prove this when $$ n $$ is a regular prime.
+which has no non-trivial integer solutions for $$n > 2 $$. We will prove this when $$n $$ is a regular prime.
 
 ---
 
@@ -68,7 +68,7 @@ We conclude the only solutions are $$(X, Y) = (3, \pm5) $$.
 
 ## Conclusion
 
-Solving equations like $$aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$X^3 = Y^2 + 2 $$ uses factorization in $$ \mathbb{Z}\left\sqrt{-2}\right] $$. But in general, we must deal with rings that are not UFDs.
+Solving equations like $$aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$X^3 = Y^2 + 2 $$ uses factorization in $$\mathbb{Z}\left\sqrt{-2}\right] $$. But in general, we must deal with rings that are not UFDs.
 
 Hence, we develop the theory of **number fields**.
 
