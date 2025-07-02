@@ -1,23 +1,22 @@
 ---
-title: "An Introduction to (Algebraic) Number Theory"
-date: 2025-06-21
-categories: [blog]
-tags: [number theory, teaching, course]
-layout: post
-author_profile: true
+title: "An Introduction to Number Theory"
+date: 2025-09-15
+permalink: /posts/2025/09/intro-number-theory/
+tags: 
+  - teaching
 ---
 
-*Course presentation — San Salvador, September 2016*
+*Course presentation — Padova, September 2025*
 
 ---
 
 ## What is number theory?
 
 In the third century, Diophantus of Alexandria investigated problems of the type:  
-Given \( f \in \mathbb{Z}[X_1, ..., X_n] \), can we find integer (or rational) solutions to:
+Given $$ f \in \mathbb{Z}\\[X_1, ..., X_n\\] $$, can we find integer (or rational) solutions to:
 
 \[
-f(X_1, ..., X_n) = 0 \quad ?
+f(X_1, ..., X_n) = 0  ?
 \]
 
 Number theory is broadly the study of this question and its generalizations, such as systems of polynomial equations.
@@ -97,7 +96,4 @@ where \( r_1 \) = number of real embeddings, \( r_2 \) = number of complex pairs
 
 ---
 
-## Advanced Topics
 
-**Class Field Theory** describes abelian extensions of local/global fields via arithmetic.  
-We plan to outline core results and present the algebraic/cohomological approaches of Chevalley, Artin, and Tate.
