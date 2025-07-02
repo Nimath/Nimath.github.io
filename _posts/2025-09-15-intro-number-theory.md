@@ -6,7 +6,7 @@ tags:
   - teaching
 ---
 
-*Course presentation — Padova, September 2025*
+*[Course presentation — Padova, September 2025](https://didattica.unipd.it/off/2025/LM/SC/SC2998/002PD/SCQ0094301/N0)*
 
 ---
 
@@ -36,7 +36,7 @@ $$
 X^n + Y^n = Z^n
 $$
 
-which has no non-trivial integer solutions for $$ n > 2 $$. We will prove this when $$ n $$ is a regular prime.
+which has no non-trivial integer solutions for $$n > 2 $$. We will prove this when $$ n $$ is a regular prime.
 
 ---
 
@@ -48,7 +48,7 @@ $$
 X^3 = Y^2 + 2
 $$
 
-Factoring over $$ \mathbb{Z}\left[\sqrt{-2}
+Factoring over $$\mathbb{Z}\left[\sqrt{-2}
 \right] $$:
 
 $$
@@ -56,7 +56,7 @@ X^3 = (Y + \sqrt{-2})(Y - \sqrt{-2})
 $$
 
 Using:
-- $$\mathbb{Z}[\sqrt{-2}\right] $$ is a UFD
+- $$\mathbb{Z}\left[\sqrt{-2}\right] $$ is a UFD
 - Its units are $$\pm1 $$
 - $$Y + \sqrt{-2} $$ and $$Y - \sqrt{-2} $$ are coprime
 
@@ -68,32 +68,35 @@ We conclude the only solutions are $$(X, Y) = (3, \pm5) $$.
 
 ## Conclusion
 
-Solving equations like $$ aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$ X^3 = Y^2 + 2 $$ uses factorization in $$ \mathbb{Z}\left\left\sqrt{-2}] $$. But in general, we must deal with rings that are not UFDs.
+Solving equations like $$aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$X^3 = Y^2 + 2 $$ uses factorization in $$ \mathbb{Z}\left\sqrt{-2}\right] $$. But in general, we must deal with rings that are not UFDs.
 
 Hence, we develop the theory of **number fields**.
 
-Let $$ K $$ be a number field (a finite extension of $$ \mathbb{Q} $$), and $$ \mathcal{O}_K $$ its ring of integers. Then:
+Let $$K $$ be a number field (a finite extension of $$\mathbb{Q} $$), and $$\mathcal{O}_K $$ its ring of integers. Then:
 
-1. Every ideal $$ I \subset \mathcal{O}_K $$ has a unique factorization:
+1. Every ideal $$I \subset \mathcal{O}_K $$ has a unique factorization:
 
 $$
 I = P_1^{e_1} \cdots P_n^{e_n}
 $$
 
-2. The unit group $$ \mathcal{O}_K^\times $$ is a finitely generated abelian group with:
+2. The unit group $$\mathcal{O}_K^\times $$ is a finitely generated abelian group with:
 
 $$
 \text{rank}(\mathcal{O}_K^\times) = r_1 + r_2 - 1
 $$
 
-where $$ r_1 $$ = number of real embeddings, $$ r_2 $$ = number of complex pairs.
+where $$r_1 $$ = number of real embeddings, $$r_2 $$ = number of complex pairs.
 
-3. The Dedekind zeta function $$ \zeta_K(s) $$ satisfies:
+3. The Dedekind zeta function $$\zeta_K(s) $$ satisfies:
 
 $$
 \lim_{s \to 1}(s - 1) \zeta_K(s) = \frac{2^{r_1}(2\pi)^{r_2} h_K R_K}{\omega_K \sqrt{|d_K|}}
 $$
 
----
+
+
+During the course we will review all the basics of algebraic and analytic number theory, along with a lot of exercises and concrete examples.
+
 
 
