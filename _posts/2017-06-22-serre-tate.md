@@ -8,7 +8,7 @@ tags:
 
 Serre-Tate local moduli (for 1-motives)
 ======
-
+[wordpress](https://nimazsite.wordpress.com/2017/06/22/serre-tate/)
 Abstract
 ------
 
