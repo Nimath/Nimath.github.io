@@ -6,16 +6,12 @@ tags:
   - math
 ---
 
-Serre-Tate local moduli (for 1-motives)
-======
-[wordpress](https://nimazsite.wordpress.com/2017/06/22/serre-tate/)
-Abstract
-------
+This post is an overview of the article arXiv:1704.01340 written with A. Bertapelle. 
 
-This post is an overview of the article arXiv:1704.01340 written with A. Bertapelle. We generalise to 1-motives the classical correspondence  between the following sets
-
-The set of deformations of an abelian variety $$A$$ in characteristic $$p>0$$;
-The set of deformations of the Barsotti-Tate group of $$A$$.
+We generalise to 1-motives the classical correspondence  between the following sets
+  - The set of deformations of an abelian variety $$A$$ in characteristic $$p>0$$;
+  - The set of deformations of the Barsotti-Tate group of $$A$$.
+  
 A nice application is a concrete description of the formal moduli space of an ordinary abelian variety.
 
 Deformation theory
@@ -83,3 +79,5 @@ I first learned about Serre-Tate theory by studying the personal notes of Olivie
 
 [5] Amy (Cheung) Wooding: beamer on ST
 
+
+[wordpress](https://nimazsite.wordpress.com/2017/06/22/serre-tate/)
