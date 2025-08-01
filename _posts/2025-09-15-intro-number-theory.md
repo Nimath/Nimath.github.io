@@ -2,6 +2,8 @@
 title: "An Introduction to Number Theory"
 date: 2025-09-15
 permalink: /posts/2025/09/intro-number-theory/
+layout: single
+author_profile: true
 tags: 
   - teaching
 ---
