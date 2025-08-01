@@ -2,6 +2,7 @@
 title: 'Serre-Tate for 1-motives'
 date: 2017-06-22
 permalink: /posts/2017/06/serre-tate/
+layout: single
 tags:
   - math
 ---
