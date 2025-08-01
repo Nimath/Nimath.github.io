@@ -1,5 +1,5 @@
 ---
-title: "Around Fontaine’s Period Rings — A Friendly Invitation"
+title: "Around Fontaine’s Period Rings"
 date: 2025-08-01
 categories: [blog]
 tags: [p‑adic Hodge, Fontaine, period rings, number theory]
@@ -18,54 +18,50 @@ author_profile: true
 > oder ein großer Gesang.*  
 > — **Rainer Maria Rilke, 1899**
 
-Rilke’s ever‑widening rings set the mood for these *informal notes on p‑adic period rings*: each new “ring” in Fontaine’s theory encircles the previous one, revealing hidden arithmetic harmonies.  
-Below is a teaser‑tour meant to lure you into the full six‑page PDF.
+Rilke’s ever‑widening rings set the mood for these *informal notes on p‑adic period rings*: each new “ring” in Fontaine’s theory encircles the previous one, revealing deep arithmetic phenomena.  (I know this poem only thanks to Ignazio Longhi).
+Below is a short summary of [a seminar I gave on this topic (PDF)](https://nimath.github.io/files/notes_on_fontaine_rings.pdf).
 
 ---
 
-## A lightning timeline
+## A (really sketchy) timeline
 
 | Year | Milestone |
 |------|-----------|
 | **1967** | Tate defines *p‑divisible groups* &nbsp;•&nbsp; Serre asks for their **periods** |
-| **1979 – 1982** | Fontaine introduces *Barsotti–Tate rings* and constructs **\(B_{\mathrm{dR}}\)**, **\(B_{\mathrm{crys}}\)** |
-| **2011** | Beilinson proves the de Rham comparison; Scholze coins *perfectoid* |
-| **Today** | Period rings drive modern p‑adic Hodge theory, Euler systems and beyond |
+| **1979 – 1982** | Fontaine introduces *Barsotti–Tate rings* and constructs **$$B_{\mathrm{dR}}$$**, **$$B_{\mathrm{crys}}$$**, **$$B_{\mathrm{st}}$$** |
+| **2011** | Beilinson re-proves the de Rham comparison in generality; Scholze coins the term *perfectoid* and open new ways|
+| **since 2012** | Period rings (an their generalizations) drive modern p‑adic Hodge theory, Euler systems and beyond |
 
-*(See the PDF for dates, references and anecdotes.)*
+
 
 ---
 
-## Three facts to whet your appetite 🍴
+## Three important features 🍴
 
-1. **The first ring already hides a logarithm.**  
-   In the Fontaine–Witt construction one shows  
-   \[
-     t = \log\!\bigl([1^{\flat}]\bigr) = \sum_{n>0}\frac{(-1)^{n-1}\bigl([1^{\flat}]-1\bigr)^{n}}{n}
-   \]  
-   and this mysterious element **generates the filtration** on \(B_{\mathrm{dR}}^{+}\).
+1. **The first ring already contains the period of the punctured disk.**  
+   In the Fontaine construction one can consider  
+   
+     $$``2\pi i ''=t := \log\!\bigl([1^{\flat}]\bigr) = \sum_{n>0}\frac{(-1)^{n-1}\bigl([1^{\flat}]-1\bigr)^{n}}{n}$$
+    
+   and this mysterious element **generates the filtration** on $$B_{\mathrm{dR}}^{+}$$.
 
 2. **Crystalline → semi‑stable → de Rham**  
-   \[
-     B_{\mathrm{crys}} \subset B_{\mathrm{st}} \subset B_{\mathrm{dR}}
-   \]  
+   
+     $$B_{\mathrm{crys}} \subset B_{\mathrm{st}} \subset B_{\mathrm{dR}}$$
+    
    Every inclusion adds exactly the structure needed (Frobenius, then monodromy, then filtration) so that a Galois representation is *admissible* precisely when it comes from good, semi‑stable or general geometry.
 
 3. **A single short exact sequence ties everything together.**  
    Fontaine’s *fundamental sequence*  
-   \[
-     0 \rightarrow \mathbf{Q}_{p}(r) \rightarrow \mathrm{Fil}^{r}B_{\mathrm{crys}}
-     \xrightarrow{\;\varphi/p^{\,r-1}\;} B_{\mathrm{crys}} \rightarrow 0
-   \]  
-   controls \(p\)-power torsion in étale cohomology, the same way \(2\pi i\) controls classical periods.
+   
+    $$\displaystyle 0\to Q_{p}(r)\to\mathrm{Fil}^{r}B_{crys}\xrightarrow{\varphi/p^{r-1}}B_{crys}\to 0$$
+
+   giving the first link between étale and de Rham cohomology, the same way the integration of differential forms  over cycles realizes the connection between singular cohomology and and de Rham cohomology in the  classical setting.
 
 ---
 
-## Why read the PDF?
+* more details in the [PDF]((https://nimath.github.io/files/notes_on_fontaine_rings.pdf)) (comments are wellcome)
 
-* **Concrete** constructions (no black boxes) of \(A_{\mathrm{inf}}\), \(A_{\mathrm{crys}}\), \(B_{\mathrm{dR}}\), …  
-* **One‑page proofs** of key properties: Frobenius formulae, valuations, Galois fixed fields.  
-* A quick **bridge** from Tate’s old question to Scholze’s perfectoids, all in six pages.  
-* Perfect for **seminar prep**: every definition comes with the citation you’ll need.
+* An alternative to the poem is, [as suggested by Colmez](https://webusers.imj-prg.fr/~pierre.colmez/FW.pdf), the beggining of the lord of the rings. What is your choice?
 
-Grab a coffee, circle the ancient tower of number theory once more, and let the rings expand. The full notes await you!
+
