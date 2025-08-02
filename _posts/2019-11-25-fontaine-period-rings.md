@@ -2,7 +2,7 @@
 title: "Around Fontaine’s Period Rings"
 date: 2025-08-01
 categories: [blog]
-tags: [p‑adic Hodge, Fontaine, period rings, number theory]
+tags: [p‑adic, Fontaine, period rings, number theory, math]
 layout: single
 author_profile: true
 ---
