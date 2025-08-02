@@ -7,6 +7,10 @@ layout: single
 author_profile: true
 ---
 
+*'I live my life in widening rings..'*
+
+---
+
 > *Ich lebe mein Leben in wachsenden Ringen,  
 > die sich über die Dinge ziehn.  
 > Ich werde den letzten vielleicht nicht vollbringen,  
