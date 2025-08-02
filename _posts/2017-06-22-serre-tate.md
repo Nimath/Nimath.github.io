@@ -4,8 +4,7 @@ date: 2017-06-22
 permalink: /posts/2017/06/serre-tate/
 layout: single
 author_profile: true
-tags:
-  - math
+tags: [research, maths]
 ---
 
 This post is an overview of the article arXiv:1704.01340 written with A. Bertapelle. 
