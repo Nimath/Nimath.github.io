@@ -7,7 +7,7 @@ layout: single
 author_profile: true
 ---
 
-*'I live my life in widening rings..'*
+*'I live my life in widening rings...'*
 
 ---
 
