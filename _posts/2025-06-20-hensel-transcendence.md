@@ -2,7 +2,7 @@
 title: "Hensel's Proof of the Transcendence of e"
 date: 2025-06-20
 categories: [blog]
-tags: [math, transcendence, p-adics, history]
+tags: [math, transcendence, p-adics, history, teaching]
 layout: single
 author_profile: true
 ---
