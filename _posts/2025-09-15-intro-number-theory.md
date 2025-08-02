@@ -4,8 +4,7 @@ date: 2025-09-15
 permalink: /posts/2025/09/intro-number-theory/
 layout: single
 author_profile: true
-tags: 
-  - teaching
+tags: [number theory, teaching]
 ---
 
 *[Course presentation — Padova, September 2025](https://didattica.unipd.it/off/2025/LM/SC/SC2998/002PD/SCQ0094301/N0)*
