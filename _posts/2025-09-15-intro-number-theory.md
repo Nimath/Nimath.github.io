@@ -92,7 +92,7 @@ where $$r_1 $$ = number of real embeddings, $$r_2 $$ = number of complex pairs.
 3. The Dedekind zeta function $$\zeta_K(s) $$ satisfies:
 
 $$
-\lim_{s \to 1}(s - 1) \zeta_K(s) = \frac{2^{r_1}(2\pi)^{r_2} h_K R_K}{\omega_K \sqrt{|d_K|}}
+\lim_{s\to 1}(s - 1)\zeta_K(s) = \frac{2^{r_1}(2\pi)^{r_2} h_K R_K}{\omega_K \sqrt{|d_K|}}
 $$
 where all the main arithmetic invariants of the field $$K$$ show up.
 
