@@ -49,7 +49,7 @@ $$
 X^3 = Y^2 + 2
 $$
 
-Factoring over $$\mathbb{Z}\left[\sqrt{-2}
+Factoring over $$\mathbb{Z}\left[ \sqrt{-2}
 \right] $$:
 
 $$
@@ -57,7 +57,7 @@ X^3 = (Y + \sqrt{-2})(Y - \sqrt{-2})
 $$
 
 Using:
-- $$\mathbb{Z}\left[\sqrt{-2}\right] $$ is a UFD
+- $$\mathbb{Z}\left[ \sqrt{-2}\right] $$ is a UFD
 - Its units are $$\pm1 $$
 - $$Y + \sqrt{-2} $$ and $$Y - \sqrt{-2} $$ are coprime
 
@@ -69,7 +69,7 @@ We conclude the only solutions are $$(X, Y) = (3, \pm5) $$.
 
 ## Conclusion
 
-Solving equations like $$aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$X^3 = Y^2 + 2 $$ uses factorization in $$\mathbb{Z}\left\sqrt{-2}\right] $$. But in general, we must deal with rings that are not UFDs.
+Solving equations like $$aX + bY = m $$ relies on unique factorization in $$ \mathbb{Z} $$. Similarly, solving $$X^3 = Y^2 + 2 $$ uses factorization in $$\mathbb{Z}\left[\sqrt{-2}\right] $$. But in general, we must deal with rings that are not UFDs.
 
 Hence, we develop the theory of **number fields**.
 
