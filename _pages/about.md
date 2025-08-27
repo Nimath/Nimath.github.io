@@ -12,7 +12,7 @@ Via Trieste, 63 - 35121 Padova
 
 Research Interests
 ------
-My research sits at the crossroads of arithmetic geometry and \$p\$-adic Hodge theory. I am mainly intersted in understanding how  \$p\$-adic cohomology theories (de Rham, syntomic, rigid)  capture the arithmetic of varieties and 1-motives. 
+My research sits at the crossroads of arithmetic geometry and p-adic Hodge theory. I am mainly intersted in understanding how  p-adic cohomology theories (de Rham, syntomic, rigid)  capture the arithmetic of varieties and 1-motives. 
 
 I am equally interested in the motivic viewpoint. I have introduced and refined Fontaine–Ogus and filtered Ogus constructions for Laumon 1-motives, produced rigid syntomic ring spectra, and analysed cycle classes through the syntomic regulator. These projects clarify how the different cohomological avatars of a motive interact and how they encode special-value phenomena predicted by the conjectures of Beilinson and Bloch–Kato.
 
