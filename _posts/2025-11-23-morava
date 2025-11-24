@@ -32,7 +32,7 @@ Mathematician Jack Morava, recently passed away, argues that the formula isn’t
 Let’s start with the formula itself:
 
 $$
-F_x(a) : F_y(b) ;\longrightarrow; F_x(b) : F_{a^{-1}}(y)
+F_x(a) : F_y(b) \longrightarrow F_x(b) : F_{a^{-1}}(y)
 $$
 
 The idea is that a myth often contains:
@@ -348,4 +348,9 @@ The mathematical models in Morava’s papers illuminate this movement. They show
 
 In that sense, Lévi-Strauss wasn’t being obscure.
 He was being exact—just ahead of his time.
+
+# References
+
+* [J. Morava: ON THE CANONICAL FORMULA OF C LÉVI-STRAUSS, II](https://arxiv.org/pdf/2002.12813)
+* [Barbosa de Almeida article](https://mwba.wordpress.com/wp-content/uploads/2010/03/almeida-2010-la-formula-canonica-del-mito.pdf)
 
