@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Associate Professor at [UniPD](https://www.unipd.it)"
+title: "Associate Professor at UniPD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-[Department of Mathematics "Tullio Levi-Civita"](https://www.math.unipd.it/en/)  
-Via Trieste, 63 - 35121 Padova
+[UniPD](https://www.unipd.it) - [Department of Mathematics "Tullio Levi-Civita"](https://www.math.unipd.it/en/)  
 
+[Contacts](https://www.unipd.it/contatti/nicola.mazzari)
 
 Research Interests
 ------
