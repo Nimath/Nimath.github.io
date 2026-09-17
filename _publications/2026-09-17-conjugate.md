@@ -10,5 +10,5 @@ arxiv: ''
 paperurl: ''
 doi: ''
 bibtexurl: ''
-citation: ''
+citation: 'N. Mazzari. "On the conjugate uniformization of abelian varieties"'
 ---
